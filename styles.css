@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin: 2rem;
+}
+
+form{
+    text-align: center;
+    margin: 2rem;
+}
+
+.formField{
+    margin-bottom: 20px;
+}
+
+button{
+    width: 7em;
+    height: 3.5em;
+    border-radius: 20%;
+    border: greenyellow;
+    background-color: greenyellow;
+    color: black;
+}
+
+td,
+th {
+    text-align: center;
+    padding: 10px;
+    border: solid rgb(82, 198, 53) 3px; 
+    background-image: url('./assets/img2.jpg');  
+}
+
+table{
+    display: flex;
+    justify-content: center;
+}
+
